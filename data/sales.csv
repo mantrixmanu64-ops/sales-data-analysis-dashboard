@@ -1,0 +1,13 @@
+order_id,order_date,region,product,category,quantity,unit_price,customer_id
+1001,2025-01-04,East,Keyboard,Accessories,2,45,501
+1002,2025-01-10,West,Monitor,Electronics,1,220,502
+1003,2025-02-02,North,Mouse,Accessories,3,25,503
+1004,2025-02-18,South,Laptop,Electronics,1,950,504
+1005,2025-03-03,East,Monitor,Electronics,2,210,501
+1006,2025-03-22,West,Keyboard,Accessories,4,42,505
+1007,2025-04-06,North,Laptop,Electronics,1,990,506
+1008,2025-04-19,South,Mouse,Accessories,5,22,507
+1009,2025-05-11,East,Laptop,Electronics,1,1020,508
+1010,2025-05-29,West,Monitor,Electronics,2,215,502
+1011,2025-06-08,North,Keyboard,Accessories,3,44,509
+1012,2025-06-20,South,Mouse,Accessories,2,24,510
